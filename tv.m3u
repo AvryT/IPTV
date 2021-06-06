@@ -1,72 +1,339 @@
 #EXTM3U
 ## Malaysia
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="",8TV
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="",马来西亚 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/Astro%E5%85%A8%E4%BD%B3HD.png" group-title="",Astro Quan Jia HD
+#EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/Astro%E5%85%A8%E4%BD%B3HD.png" group-title="",马来西亚 Astro Quan Jia HD
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" group-title="",Astro Shuang Xing
+#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" group-title="",马来西亚 Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroWahLaiToi.my" tvg-name="Astro Wah Lai Toi" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="",Astro 华丽台 (Astro Wah Lai Toi)
+#EXTINF:-1 tvg-id="AstroWahLaiToi.my" tvg-name="Astro Wah Lai Toi" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="",马来西亚 Astro 华丽台 (Astro Wah Lai Toi)
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="",Astro 小太阳 (Astro Xiao Tai Yang) [Not 24/7]
+#EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="",马来西亚 Astro 小太阳 (Astro Xiao Tai Yang) [Not 24/7]
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroHuaHeeDai.my" tvg-name="Astro Hua Hee Dai" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="",Astro 欢喜台 (Astro Hua Hee Dai)
+#EXTINF:-1 tvg-id="AstroHuaHeeDai.my" tvg-name="Astro Hua Hee Dai" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="",马来西亚 Astro 欢喜台 (Astro Hua Hee Dai)
 http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-name="Celestial Classic Movies" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="",Celestial Classic 天映经典
+#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-name="Celestial Classic Movies" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="",马来西亚 Celestial Classic 天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",Celestial Movies (480p)
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",马来西亚 Celestial Movies (480p)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",Channel V
+#EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="Music",马来西亚 Channel V
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-#EXTINF:-1 tvg-id="TVBXingHe.hk" tvg-name="TVB Xing He" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="",TVB Xing He 星河
+#EXTINF:-1 tvg-id="TVBXingHe.hk" tvg-name="TVB Xing He" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="",马来西亚 TVB Xing He 星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 ## Taiwan
-#EXTINF:-1 tvg-id="DaLiDianShi.tw" tvg-name="大立電視" tvg-country="TW" tvg-language="Min Nan Chinese" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="General",大立電視
+#EXTINF:-1 tvg-id="DaLiDianShi.tw" tvg-name="台湾 大立電視" tvg-country="TW" tvg-language="Min Nan Chinese" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="General",台湾 大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="MinShi.tw" tvg-name="民視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="General",民視 (720p)
+#EXTINF:-1 tvg-id="MinShi.tw" tvg-name="民視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="General",台湾 民視 (720p)
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="MinShiTaiWan.tw" tvg-name="民視台灣" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="News",民視台灣 (720p)
+#EXTINF:-1 tvg-id="MinShiTaiWan.tw" tvg-name="民視台灣" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="News",台湾 民視台灣 (720p)
 http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 tvg-id="MinShiXinWenTai.tw" tvg-name="民視新聞台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News",民視新聞台
+#EXTINF:-1 tvg-id="MinShiXinWenTai.tw" tvg-name="民視新聞台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="News",台湾 民視新聞台
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="MinShiDiYi.tw" tvg-name="民視第一" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="General",民視第一 (720p)
+#EXTINF:-1 tvg-id="MinShiDiYi.tw" tvg-name="民視第一" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="General",台湾 民視第一 (720p)
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="GOODTVCH1ZongHeTai.tw" tvg-name="GOOD TV CH1 綜合台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="Religious",GOOD TV CH1 綜合台 (720p)
+#EXTINF:-1 tvg-id="GOODTVCH1ZongHeTai.tw" tvg-name="GOOD TV CH1 綜合台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="Religious",台湾 GOOD TV CH1 綜合台 (720p)
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH10KaoXiangDuShuHuiDuanBan.tw" tvg-name="GOOD TV CH10 烤箱讀書會 短版" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/10_file.jpg" group-title="Religious",GOOD TV CH10 烤箱讀書會 短版 (720p)
+#EXTINF:-1 tvg-id="GOODTVCH10KaoXiangDuShuHuiDuanBan.tw" tvg-name="GOOD TV CH10 烤箱讀書會 短版" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/10_file.jpg" group-title="Religious",台湾 GOOD TV CH10 烤箱讀書會 短版 (720p)
 https://live.streamingfast.net/osmflivech10.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH12WeiTaMingShi.tw" tvg-name="GOOD TV CH12 維他命施" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/12_file.jpg" group-title="Religious",GOOD TV CH12 維他命施 (720p)
+#EXTINF:-1 tvg-id="GOODTVCH12WeiTaMingShi.tw" tvg-name="GOOD TV CH12 維他命施" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/12_file.jpg" group-title="Religious",台湾 GOOD TV CH12 維他命施 (720p)
 https://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH13JianKangXinZhuLiuDuanBan.tw" tvg-name="GOOD TV CH13 健康新煮流 短版" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/13_file.jpg" group-title="Religious",GOOD TV CH13 健康新煮流 短版 (720p)
+#EXTINF:-1 tvg-id="GOODTVCH13JianKangXinZhuLiuDuanBan.tw" tvg-name="GOOD TV CH13 健康新煮流 短版" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/13_file.jpg" group-title="Religious",台湾 GOOD TV CH13 健康新煮流 短版 (720p)
 https://live.streamingfast.net/osmflivech13.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH40JiaTing8DianDangZhuanZhuanFaXianAi.tw" tvg-name="GOOD TV CH40 家庭8點檔轉轉發現愛" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/40_file.jpg" group-title="Religious",GOOD TV CH40 家庭8點檔轉轉發現愛 (720p)
+#EXTINF:-1 tvg-id="GOODTVCH40JiaTing8DianDangZhuanZhuanFaXianAi.tw" tvg-name="GOOD TV CH40 家庭8點檔轉轉發現愛" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/40_file.jpg" group-title="Religious",台湾 GOOD TV CH40 家庭8點檔轉轉發現愛 (720p)
 https://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH41XingFuXueTang.tw" tvg-name="GOOD TV CH41 幸福學堂" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/41_file.jpg" group-title="Religious",GOOD TV CH41 幸福學堂 (720p)
+#EXTINF:-1 tvg-id="GOODTVCH41XingFuXueTang.tw" tvg-name="GOOD TV CH41 幸福學堂" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/41_file.jpg" group-title="Religious",台湾 GOOD TV CH41 幸福學堂 (720p)
 https://live.streamingfast.net/osmflivech41.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH44KaoXiangDuShuHui.tw" tvg-name="GOOD TV CH44 烤箱讀書會" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/44_file.jpg" group-title="Religious",GOOD TV CH44 烤箱讀書會 (720p)
+#EXTINF:-1 tvg-id="GOODTVCH44KaoXiangDuShuHui.tw" tvg-name="GOOD TV CH44 烤箱讀書會" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/44_file.jpg" group-title="Religious",台湾 GOOD TV CH44 烤箱讀書會 (720p)
 https://live.streamingfast.net/osmflivech44.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH45QiaTong.tw" tvg-name="GOOD TV CH45 卡通" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/45_file.jpg" group-title="Religious",GOOD TV CH45 卡通 (720p)
+#EXTINF:-1 tvg-id="GOODTVCH45QiaTong.tw" tvg-name="GOOD TV CH45 卡通" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/45_file.jpg" group-title="Religious",台湾 GOOD TV CH45 卡通 (720p)
 https://live.streamingfast.net/osmflivech45.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH8XingFuXueTangDuanBan.tw" tvg-name="GOOD TV CH8 幸福學堂 短版" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/8_file.jpg" group-title="Religious",GOOD TV CH8 幸福學堂 短版 (720p)
+#EXTINF:-1 tvg-id="GOODTVCH8XingFuXueTangDuanBan.tw" tvg-name="GOOD TV CH8 幸福學堂 短版" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/8_file.jpg" group-title="Religious",台湾 GOOD TV CH8 幸福學堂 短版 (720p)
 https://live.streamingfast.net/osmflivech8.m3u8
-#EXTINF:-1 tvg-id="GOODTVCH9AiPlusHaoYiShengDuanBan.tw" tvg-name="GOOD TV CH9 愛+好醫生 短版" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/9_file.jpg" group-title="Religious",GOOD TV CH9 愛+好醫生 短版 (720p)
+#EXTINF:-1 tvg-id="GOODTVCH9AiPlusHaoYiShengDuanBan.tw" tvg-name="GOOD TV CH9 愛+好醫生 短版" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/9_file.jpg" group-title="Religious",台湾 GOOD TV CH9 愛+好醫生 短版 (720p)
 https://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 tvg-id="TVBSXingWen.tw" tvg-name="TVBS新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="News",TVBS新聞
+#EXTINF:-1 tvg-id="TVBSXingWen.tw" tvg-name="TVBS新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="News",台湾 TVBS新聞
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="SanLiXingWen.tw" tvg-name="三立新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="News",三立新聞
+#EXTINF:-1 tvg-id="SanLiXingWen.tw" tvg-name="三立新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="News",台湾 三立新聞
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="ZhongTianXingWen.tw" tvg-name="中天新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="News",中天新聞
+#EXTINF:-1 tvg-id="ZhongTianXingWen.tw" tvg-name="中天新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="News",台湾 中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="ZhongShiXingWen.tw" tvg-name="中視新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png" group-title="News",中視新聞
+#EXTINF:-1 tvg-id="ZhongShiXingWen.tw" tvg-name="中視新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png" group-title="News",台湾 中視新聞
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="TaiShiXingWen.tw" tvg-name="台視新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="News",台視新聞
+#EXTINF:-1 tvg-id="TaiShiXingWen.tw" tvg-name="台視新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="News",台湾 台視新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="YiDianShiXinWenTai.tw" tvg-name="壹電視新聞台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://store-images.s-microsoft.com/image/apps.14454.9007199266706361.be7aa2de-7429-4e34-b9a4-eca9a55157c1.3eb6a511-ff23-46aa-bf3a-b8b7e7e5c808?mode=scale&q=90&h=270&w=270&background=%23FFFFFF" group-title="News",壹電視新聞台
+#EXTINF:-1 tvg-id="YiDianShiXinWenTai.tw" tvg-name="壹電視新聞台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://store-images.s-microsoft.com/image/apps.14454.9007199266706361.be7aa2de-7429-4e34-b9a4-eca9a55157c1.3eb6a511-ff23-46aa-bf3a-b8b7e7e5c808?mode=scale&q=90&h=270&w=270&background=%23FFFFFF" group-title="News",台湾 壹電視新聞台
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 tvg-id="DongLingXingWen.tw" tvg-name="東森新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="News",東森新聞
+#EXTINF:-1 tvg-id="DongLingXingWen.tw" tvg-name="東森新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="News",台湾 東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="DongLingCaiJingXingWen.tw" tvg-name="東森財經新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="News",東森財經新聞
+#EXTINF:-1 tvg-id="DongLingCaiJingXingWen.tw" tvg-name="東森財經新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="News",台湾 東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-id="HuaShiXingWen.tw" tvg-name="華視新聞資訊" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/27/Cts_news_info.png/200px-Cts_news_info.png" group-title="News",華視新聞資訊
+#EXTINF:-1 tvg-id="HuaShiXingWen.tw" tvg-name="華視新聞資訊" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/27/Cts_news_info.png/200px-Cts_news_info.png" group-title="News",台湾 華視新聞資訊
 http://seb.sason.top/sc/hsxw_fhd.m3u8
+
+
+##Hong Kong
+#EXTINF:-1 tvg-id="XingKongWeiShi.hk" tvg-name="星空衛視" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="General",香港 星空衛視
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",香港 翡翠台（81）
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 tvg-id="XiangGangKaiDianShiHKSTVHKS.hk" tvg-name="香港开电视 / HKSTV-HKS" tvg-country="HK" tvg-language="" tvg-logo="" group-title="",香港 香港开电视 / HKSTV-HKS
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="鳳凰衛視電影台" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="",香港 鳳凰衛視電影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+
+
+##China
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",中国 CCTV-1 综合
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
+#EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png",中国 CCTV-2 财经
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
+#EXTINF:-1 tvg-id="cctv3" tvg-logo="cctv3.png",中国 CCTV-3 综艺
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
+#EXTINF:-1 tvg-id="cctv4" tvg-logo="cctv4.png",中国 CCTV-4 中文国际
+http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",中国 CCTV-5 体育
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
+#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5+.png",中国 CCTV-5+ 体育赛事
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
+#EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png",中国 CCTV-6 电影
+http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
+#EXTINF:-1 tvg-id="cctv7" tvg-logo="cctv7.png",中国 CCTV-7 国防军事
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
+#EXTINF:-1 tvg-id="cctv8" tvg-logo="cctv8.png",中国 CCTV-8 电视剧
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
+#EXTINF:-1 tvg-id="cctvjilu" tvg-logo="cctv9.png",中国 CCTV-9 纪录
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
+#EXTINF:-1 tvg-id="cctv10" tvg-logo="cctv10.png",中国 CCTV-10 科教
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
+#EXTINF:-1 tvg-id="cctv11" tvg-logo="cctv11.png",中国 CCTV-11 戏曲
+http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
+#EXTINF:-1 tvg-id="cctv12" tvg-logo="cctv12.png",中国 CCTV-12 社会与法
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
+#EXTINF:-1 tvg-id="cctv13" tvg-logo="cctv13.png",中国 CCTV-13 新闻
+http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
+#EXTINF:-1 tvg-id="cctvchild" tvg-logo="cctvchild.png",中国 CCTV-14 少儿
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
+#EXTINF:-1 tvg-id="cctv15" tvg-logo="cctv15.png",中国 CCTV-15 音乐
+http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
+#EXTINF:-1 tvg-id="cctv17" tvg-logo="cctv17.png",中国 CCTV-17 农业农村
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" group-title="Movies",中国 CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",中国 CNC中文
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",中国 CNC英文
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 tvg-id="iQIYIAiQiYi.cn" tvg-name="iQIYI 爱奇艺" tvg-country="CN" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/200px-IQiyi_logo.svg.png" group-title="",中国 iQIYI 爱奇艺
+http://198.16.106.58:8278/streams/d/Qiyi1511/playlist.m3u8
+#EXTINF:-1 tvg-id="WanZhouSanXiaYiMin.cn" tvg-name="万州三峡移民" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",中国 万州三峡移民
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
+#EXTINF:-1 tvg-id="ShangHaiJinShanDianShiTai.cn" tvg-name="上海金山电视台" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",中国 上海金山电视台
+http://live.mudu.tv/watch/4zbn2f.m3u8
+#EXTINF:-1 tvg-id="ShangYu1XinWenZongHe.cn" tvg-name="上虞1新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",中国 上虞1新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 tvg-id="ShangYu3XinShangDu.cn" tvg-name="上虞3新商都" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",中国 上虞3新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 tvg-id="DongFangWeiShi.cn" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/dongfang.jpg" group-title="",中国 东方卫视
+http://ivi.bupt.edu.cn/hls/dftv.m3u8
+#EXTINF:-1 tvg-id="DongZhiXinWenZongHe.cn" tvg-name="东至新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",中国 东至新闻综合 (720p)
+http://223.247.33.124:1935/live/zonghe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cetv1" tvg-logo="cetv1.png",中国 CETV-1
+http://183.207.248.71:80/cntv/live1/n-jiaoyutv/n-jiaoyutv
+#EXTINF:-1 tvg-id="cetv2" tvg-logo="cetv2.png",中国 CETV-2
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyutv2
+#EXTINF:-1 tvg-id="cetv4" tvg-logo="cetv4.png",中国 CETV-4
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv4/SD-4000k-576P-jiaoyutv4
+
+#EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png",中国 广东卫视
+http://183.207.248.71:80/cntv/live1/n-guangdongstv/n-guangdongstv
+#EXTINF:-1 tvg-id="dongnan" tvg-logo="dongnan.png",中国 东南卫视
+http://183.207.248.71:80/cntv/live1/n-dongnanstv/n-dongnanstv
+#EXTINF:-1 tvg-id="dongfang" tvg-logo="dongfang.png",中国 东方卫视
+http://183.207.248.71:80/cntv/live1/n-dongfangstv/n-dongfangstv
+#EXTINF:-1 tvg-id="btv1" tvg-logo="btv1.png",中国 北京卫视
+http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
+#EXTINF:-1 tvg-id="btvjishi" tvg-logo="btvjishi.png",中国 北京纪实
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
+#EXTINF:-1 tvg-id="tvs-2" tvg-logo="tvs-2.png",中国 南方卫视
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nanfangstv/SD-4000k-576P-nanfangstv
+#EXTINF:-1 tvg-id="xiamen" tvg-logo="xiamen.png",中国 厦门卫视
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-xiamenstv/SD-4000k-576P-xiamenstv
+#EXTINF:-1 tvg-id="tianjin" tvg-logo="tianjin.png",中国 天津卫视
+http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
+#EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png",中国 安徽卫视
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv
+#EXTINF:-1 tvg-id="shandong" tvg-logo="shandong.png",中国 山东卫视
+http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
+#EXTINF:-1 tvg-id="jiangsu" tvg-logo="jiangsu.png",中国 江苏卫视
+http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
+#EXTINF:-1 tvg-id="jiangxi" tvg-logo="jiangxi.png",中国 江西卫视
+http://183.207.248.71:80/cntv/live1/jiangxistv/jiangxistv
+#EXTINF:-1 tvg-id="hebei" tvg-logo="hebei.png",中国 河北卫视
+http://183.207.248.71:80/cntv/live1/n-hebeistv/n-hebeistv
+#EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png",中国 浙江卫视
+http://183.207.248.71:80/cntv/live1/zhejiangstv/zhejiangstv
+#EXTINF:-1 tvg-id="shenzhen" tvg-logo="shenzhen.png",中国 深圳卫视
+http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
+#EXTINF:-1 tvg-id="hubei" tvg-logo="hubei.png",中国 湖北卫视
+http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
+#EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",中国 湖南卫视
+http://183.207.248.71:80/cntv/live1/hunanstv/hunanstv
+#EXTINF:-1 tvg-id="chongqing" tvg-logo="chongqing.png",中国 重庆卫视
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
+#EXTINF:-1 tvg-id="heilongjiang" tvg-logo="heilongjiang.png",中国 黑龙江卫视
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-heilongjiangstv/HD-8000k-1080P-heilongjiangstv
+#EXTINF:-1 tvg-id="sichuan" tvg-logo="sichuan.png",中国 四川卫视
+http://183.207.248.71:80/cntv/live1/n-sichuanstv/n-sichuanstv
+#EXTINF:-1 tvg-id="yunnan" tvg-logo="yunnan.png",中国 云南卫视
+http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1
+#EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png",中国 宁夏卫视
+http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv
+#EXTINF:-1 tvg-id="bingtuan" tvg-logo="bingtuan.png",中国 兵团卫视
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv
+#EXTINF:-1 tvg-id="neimenggu" tvg-logo="neimenggu.png",中国 内蒙古卫视
+http://183.207.248.71:80/cntv/live1/n-neimenggustv/n-neimenggustv
+#EXTINF:-1 tvg-id="nonglin" tvg-logo="nonglin.png",中国 农林卫视
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv
+#EXTINF:-1 tvg-id="shan1xi" tvg-logo="shan1xi.png",中国 山西卫视
+http://183.207.248.71:80/cntv/live1/n-shanxistv/n-shanxistv
+#EXTINF:-1 tvg-id="guangxi" tvg-logo="guangxi.png",中国 广西卫视
+http://183.207.248.71:80/cntv/live1/n-guangxistv/n-guangxistv
+#EXTINF:-1 tvg-id="kangba" tvg-logo="kangba.png",中国 康巴卫视
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-kambatv/SD-4000k-576P-kambatv
+#EXTINF:-1 tvg-id="yanbian" tvg-logo="yanbian.png",中国 延边卫视
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv
+#EXTINF:-1 tvg-id="xinjiang" tvg-logo="xinjiang.png",中国 新疆卫视
+http://183.207.248.71:80/cntv/live1/n-xjtv1/n-xjtv1
+#EXTINF:-1 tvg-id="gansu" tvg-logo="gansu.png",中国 甘肃卫视
+http://183.207.248.71:80/cntv/live1/n-gansustv/n-gansustv
+#EXTINF:-1 tvg-id="anduo" tvg-logo="anduo.png",中国 安多卫视
+http://183.207.248.71:80/cntv/live1/anduostv/anduostv
+#EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png",中国 宁夏卫视
+http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv
+#EXTINF:-1 tvg-id="xizang" tvg-logo="xizang.png",中国 西藏卫视
+http://183.207.248.71:80/cntv/live1/n-xizangstv/n-xizangstv
+#EXTINF:-1 tvg-id="guizhou" tvg-logo="guizhou.png",中国 贵州卫视
+http://183.207.248.71:80/cntv/live1/n-guizhoustv/n-guizhoustv
+#EXTINF:-1 tvg-id="henan" tvg-logo="henan.png",中国 河南卫视
+http://183.207.248.71:80/cntv/live1/henanstv/henanstv
+#EXTINF:-1 tvg-id="liaoning" tvg-logo="liaoning.png",中国 辽宁卫视
+http://183.207.248.71:80/cntv/live1/liaoningstv/liaoningstv
+#EXTINF:-1 tvg-id="shanxi" tvg-logo="shanxi.png",中国 陕西卫视
+http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv
+#EXTINF:-1 tvg-id="qinghai" tvg-logo="qinghai.png",中国 青海卫视
+http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv
+#EXTINF:-1 tvg-id="shanghaijishi" tvg-logo="shanghaijishi.png",中国 纪实人文
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
+#EXTINF:-1 tvg-id="sdetv" tvg-logo="sdetv.png",中国 山东教育电视台
+http://183.207.248.71:80/cntv/live1/n-shandongjy/n-shandongjy
+#EXTINF:-1 tvg-id="newtvbj" tvg-logo="newtvbj.png",中国 NewTV世界搏击
+http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
+#EXTINF:-1 tvg-id="newtvjk" tvg-logo="newtvjk.png",中国 NewTV健康有约
+http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiankangyouyue
+#EXTINF:-1 tvg-id="newtvjs" tvg-logo="newtvjs.png",中国 NewTV军事评论
+http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl
+#EXTINF:-1 tvg-id="newtvgz" tvg-logo="newtvgz.png",中国 NewTV古装剧场
+http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc
+#EXTINF:-1 tvg-id="newjunlv" tvg-logo="newtvjunlv.png",中国 NewTV军旅剧场
+http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc
+#EXTINF:-1 tvg-id="newtvnongye" tvg-logo="newtvnongye.png",中国 NewTV农业致富
+http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
+#EXTINF:-1 tvg-id="newtvdz" tvg-logo="newtvdz.png",中国 NewTV动作电影
+http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody
+#EXTINF:-1 tvg-id="newtvjt" tvg-logo="newtvjt.png",中国 NewTV家庭剧场
+http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc
+#EXTINF:-1 tvg-id="newtvjsdy" tvg-logo="newtvjsdy.png",中国 NewTV惊悚电影
+http://183.207.248.71:80/cntv/live1/n-jingsongxy/n-jingsongxy
+#EXTINF:-1 tvg-id="newtvcmlapo" tvg-logo="newtvcmlapo.png",中国 NewTV潮妈辣婆
+http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
+#EXTINF:-1 tvg-id="newtvxwwl" tvg-logo="newtvxwwl.png",中国 NewTV炫舞未来
+http://183.207.248.71:80/cntv/live1/HD-4000k-1080P-xwwl/HD-4000k-1080P-xwwl
+#EXTINF:-1 tvg-id="newtvaqxj" tvg-logo="newtvaqxj.png",中国 NewTV爱情喜剧
+http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj
+#EXTINF:-1 tvg-id="newtvtiyu" tvg-logo="newtvtiyu.png",中国 NewTV精品体育
+http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
+#EXTINF:-1 tvg-id="newtvjp" tvg-logo="newtvjp.png",中国 NewTV精品大剧
+http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju
+#EXTINF:-1 tvg-id="newtvjl" tvg-logo="newtvjl.png",中国 NewTV精品纪录
+http://183.207.248.71:80/cntv/live1/n-jingpinjl/n-jingpinjl
+#EXTINF:-1 tvg-id="newtvzongyi" tvg-logo="newtvzongyi.png",中国 NewTV金牌综艺
+http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx
+#EXTINF:-1 tvg-id="newtvgf" tvg-logo="newtvgf.png",中国 NewTV中国功夫
+http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
+#EXTINF:-1 tvg-id="newtvrbjx" tvg-logo="newtvrbjx.png",中国 NewTV热播精选
+http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
+#EXTINF:-1 tvg-id="newtvjpzh" tvg-logo="newtvjpzh.png",中国 NewTV精品综合
+http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
+#EXTINF:-1 tvg-id="hmdj" tvg-logo="hmdj.png",中国 NewTV黑莓电竞之夜
+http://183.207.248.71:80/cntv/live1/wmyx/wmyx
+#EXTINF:-1 tvg-id="hmdy" tvg-logo="hmdy.png",中国 NewTV黑莓电影
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
+#EXTINF:-1 tvg-id="hmdh" tvg-logo="hmdh.png",中国 NewTV黑莓动画
+http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
+#EXTINF:-1 tvg-id="btvchild" tvg-logo="btvchild.png",中国 卡酷少儿
+http://183.207.248.71:80/cntv/live1/n-kakukaton/n-kakukaton
+#EXTINF:-1 tvg-id="jjkt" tvg-logo="jjkt.png",中国 嘉佳卡通
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton
+#EXTINF:-1 tvg-id="xdkt" tvg-logo="xdkt.png",中国 炫动卡通
+http://183.207.248.71:80/cntv/live1/n-xuandongkaton/n-xuandongkaton
+#EXTINF:-1 tvg-id="jykt" tvg-logo="jykt.png",中国 金鹰卡通
+http://183.207.248.71:80/cntv/live1/n-jinyingkaton/n-jinyingkaton
+#EXTINF:-1 tvg-id="JSTV-youmankatong" tvg-logo="ymkt.png",中国 优漫卡通
+http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton
+#EXTINF:-1 tvg-id="meishi" tvg-logo="meishi.png",中国 中华美食
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi
+#EXTINF:-1 tvg-id="4K" tvg-logo="4K.png",中国 纯享4K
+http://183.207.248.71:80/cntv/live1/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k
+
+
+##Japan
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",日本 Animax
+https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ATX.jp" tvg-name="AT-X" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",日本 AT-X
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelJapan.us" tvg-name="Disney Channel Japan" tvg-country="JP" tvg-language="Japan" tvg-logo="" group-title="",日本 Disney Channel Japan (360p)
+http://redlabmcdn.s.llnwi.net/jp01/bs13/index.m3u8
+#EXTINF:-1 tvg-id="GTNTyphome.jp" tvg-name="GTN Typhome" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/gFKvgAd.jpg" group-title="",日本 GTN Typhome (English Subs) (720p) [Not 24/7]
+https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8
+#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-name="New Japan Pro Wrestling World" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sports",日本 New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="NHKChineseVision.jp" tvg-name="NHK Chinese Vision" tvg-country="JP" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="News",日本 NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHKWorld" tvg-country="JP" tvg-language="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="",日本 NHK World (720p)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",日本 Nippon TV
+https://ntv.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="NipponTVNews24.jp" tvg-name="Nippon TV News 24" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",日本 Nippon TV News 24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-id="QVCJapan.jp" tvg-name="QVC Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="Shop",日本 QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="Shop Channel" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Shop",日本 Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="TBS.jp" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",日本 TBS
+https://tbs.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="TBSJORXDTV.jp" tvg-name="TBS (JORX-DTV)" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="Local",日本 TBS (JORX-DTV)
+http://203.162.235.41:16907
+#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",日本 Tokyo MX1 (360p) [Not 24-7]
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-name="Tokyo MX2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",日本 Tokyo MX2 (360p)
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="Local",日本 TV Asahi
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="",日本 TV Tokyo
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-id="WOWOWcinema.jp" tvg-name="WOWOWシネマ" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",日本 WOWOWシネマ (Wowow Cinema)
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-id="ziyapanetutotiyanneruDX.jp" tvg-name="ジャパネットチャンネルDX" tvg-country="JP" tvg-language="" tvg-logo="" group-title="",日本 ジャパネットチャンネルDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+
+
+
+
+
+
+
+
+
